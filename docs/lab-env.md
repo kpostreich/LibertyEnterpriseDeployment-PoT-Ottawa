@@ -9,7 +9,12 @@
 
     From the **Workshop Labs** menu item, select the Lab Environment URL for the specific lab(s) you want to run
 
-    ![](./images/attendee-url.png)
+    **NOTE:** Your workshop password is NOT the password illustrated in the example below. 
+	
+	
+	**NOTE:** Refer to the **Workshop Labs** page for your specific workshop password. 
+	
+	![](./images/attendee-url.png)
 
     <br/>
  
