@@ -35,9 +35,10 @@ Time | Session
    
 ### Liberty Enterprise deployment labs 
   
+<!--  
   - LAB 1020: [Liberty enterprise deployment & automation](https://github.com/IBMTechSales/liberty-enterprise-deployment-labs/tree/master/1020-Liberty-app-deployment-collectives)
   
   - LAB 1030: [High availability with dynamic routing ](https://github.com/IBMTechSales/liberty-enterprise-deployment-labs/tree/master/1030-Value-of-Liberty-dynamic-routing)
 
   - LAB 1050: [Zero-migration Liberty upgrades](https://github.com/IBMTechSales/liberty-enterprise-deployment-labs/tree/master/1050-Zero-migration-upgrade%20-Liberty)
-  
+-->  
